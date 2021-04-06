@@ -5,6 +5,7 @@ export const App = () => {
     <>
     <div>Inventory management system</div>
     <div>Hello</div>
+    <div>check git changges</div>
     </>
   )
 }
